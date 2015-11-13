@@ -1,0 +1,2 @@
+git clone from https://github.com/coneycode/hexo-git-backup.git
+用于备份hexo的整个文件夹
